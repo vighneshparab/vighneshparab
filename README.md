@@ -1,19 +1,25 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" height="400" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Vighnesh%20Sadanand%20Parab&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20AI%20Explorer&descAlignY=60&descSize=18"/>
+<!-- Lofi Header -->
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,21&height=250&section=header&text=vighnesh&fontSize=40&fontColor=d4af37&animation=fadeIn&fontAlignY=40&desc=~%20crafting%20digital%20experiences%20~&descAlignY=60&descSize=14"/>
 
-<!-- Typing Animation -->
+<!-- Retro Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Vighnesh!;Full+Stack+Developer;Cloud+%26+AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=18&pause=2000&color=8B7355&center=true&vCenter=true&random=false&width=500&lines=.%2F%20hello_world.sh;coding%20%7C%20coffee%20%7C%20repeat;building%20things%20that%20matter;always%20learning%20%E2%98%95%EF%B8%8F" alt="Typing SVG" />
 </p>
 
-<!-- Profile Views with Style -->
+<!-- Muted Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vighneshparab&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/vighneshparab?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus"/>
+  <img src="https://komarev.com/ghpvc/?username=vighneshparab&label=visitors&color=8B7355&style=flat-square" alt="visitors"/>
+  <img src="https://img.shields.io/badge/status-vibing-8B7355?style=flat-square" alt="status"/>
+  <img src="https://img.shields.io/badge/mood-chill-A0937D?style=flat-square" alt="mood"/>
 </p>
+
+```ascii
+    ╭─────────────────────────────────────────╮
+    │  welcome to my corner of the internet   │
+    ╰─────────────────────────────────────────╯
+```
 
 </div>
 
@@ -21,40 +27,53 @@
 
 <div align="center">
 
-## 🚀 About Me
+## ☕ about me
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
-### 👨‍💻 Current Focus
-```javascript
-const vighnesh = {
-    location: "India 🇮🇳",
-    company: "Applus Wave",
-    currentLearning: ["AWS", "AI & ML", "Cloud Architecture"],
-    askMeAbout: ["React", "Node.js", "MongoDB", "WebSockets"],
-    funFact: "I spend hours perfecting a single button 💅",
-    dailyRoutine: "Code → Coffee → Repeat ☕",
-    goals2025: "Master Cloud Architecture & AI Integration"
-};
+```yaml
+name: "Vighnesh Sadanand Parab"
+location: "India 🌏"
+company: "Applus Wave"
+role: "Full Stack Developer"
+
+currently_learning:
+  - "☁️  AWS Cloud Architecture"
+  - "🤖 AI & Machine Learning"
+  - "🎵 Lofi beats production"
+
+daily_routine:
+  morning: "coffee + code"
+  afternoon: "more code + debugging"
+  evening: "side projects + chill music"
+  
+philosophy: |
+  "Simple solutions to complex problems.
+   Clean code is like a good lofi track - 
+   smooth, minimal, but deeply satisfying."
+
+fun_fact: "I spend way too much time perfecting button animations 🎨"
 ```
 
-### 🎯 Quick Stats
-- 🔭 **Currently Working:** Applus Wave
-- 🌱 **Learning:** AWS, AI & ML, Advanced React Patterns
-- 👯 **Looking to collaborate on:** Open Source Projects
-- 💬 **Ask me about:** Full Stack Development, UI/UX
-- ⚡ **Fun fact:** I debug better with music 🎵
-
 </td>
-<td width="50%">
+<td width="40%" align="center">
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=vighneshparab&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies"/>
+```
+      ╭─────────────────╮
+      │                 │
+      │   ☕   💻   🎧   │
+      │                 │
+      │  coding vibes    │
+      │                 │
+      │   ♪ ♫ ♪ ♫ ♪     │
+      ╰─────────────────╯
+```
 
-### 📊 Coding Stats
-<img src="https://github-readme-streak-stats.vercel.app/?user=vighneshparab&theme=radical&hide_border=true" alt="GitHub Streak"/>
+**current status:** `coding` 
+**playing:** lofi hip hop radio 📻
+**coffee level:** ████████░░ 80%
 
 </td>
 </tr>
@@ -66,50 +85,45 @@ const vighnesh = {
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
+## 🛠 tech stack
 
-### 💻 Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,nextjs,php,python&theme=dark" alt="Languages & Frameworks"/>
-</p>
+*~ the tools that spark joy ~*
 
-### 🗄️ Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws,gcp,docker,kubernetes&theme=dark" alt="Databases & Cloud"/>
-</p>
-
-### 🎨 Design & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,figma,git,github,vscode,postman&theme=dark" alt="Design & Tools"/>
-</p>
-
-### 📊 Tech Proficiency
-<table>
-<tr>
-<td width="50%">
-
-**Frontend Development**
-```text
-React/Next.js     ████████████████████ 95%
-JavaScript/TS     ███████████████████  90%
-Tailwind CSS      ████████████████████ 95%
-HTML/CSS          ████████████████████ 98%
+### languages & frameworks
+```
+┌─────────────────────────────────────┐
+│  javascript  typescript  react.js  │
+│  node.js     express     next.js    │
+│  php         python      html/css   │
+└─────────────────────────────────────┘
 ```
 
-</td>
-<td width="50%">
-
-**Backend Development**
-```text
-Node.js/Express   ███████████████████  90%
-MongoDB           ██████████████████   85%
-PHP/MySQL         ████████████████     80%
-RESTful APIs      ███████████████████  90%
+### databases & cloud
+```
+┌─────────────────────────────────────┐
+│  mongodb     mysql       postgres   │
+│  firebase    aws          docker     │
+│  redis       elasticsearch  nginx   │
+└─────────────────────────────────────┘
 ```
 
-</td>
-</tr>
-</table>
+### design & tools
+```
+┌─────────────────────────────────────┐
+│  tailwind    bootstrap   sass       │
+│  figma       git         vscode     │
+│  postman     webpack     babel      │
+└─────────────────────────────────────┘
+```
+
+**skill levels** *(honestly assessed)*
+```
+frontend dev    ▓▓▓▓▓▓▓▓▓░ 90%
+backend apis    ▓▓▓▓▓▓▓▓░░ 80%
+database design ▓▓▓▓▓▓▓░░░ 70%
+ui/ux design    ▓▓▓▓▓▓▓▓░░ 80%
+coffee brewing  ▓▓▓▓▓▓▓▓▓▓ 100%
+```
 
 </div>
 
@@ -117,21 +131,25 @@ RESTful APIs      ███████████████████  90%
 
 <div align="center">
 
-## 📈 GitHub Analytics
+## 📊 github vibes
 
 <table>
 <tr>
 <td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=vighneshparab&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vighneshparab&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=d4af37&icon_color=8B7355&text_color=ebdbb2" alt="stats"/>
 </td>
 <td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighneshparab&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighneshparab&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=d4af37&text_color=ebdbb2&layout=compact" alt="languages"/>
 </td>
 </tr>
 </table>
 
-### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vighneshparab&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Contribution Graph"/>
+```
+commits this week: ████████░░ 23
+lines of code: too many to count
+bugs fixed: 🐛➡️✨ (hopefully)
+coffee consumed: ☕☕☕☕☕☕☕
+```
 
 </div>
 
@@ -139,59 +157,73 @@ RESTful APIs      ███████████████████  90%
 
 <div align="center">
 
-## 🌟 Featured Projects
+## 🌱 projects
+
+*~ things i've been working on ~*
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### 🚀 Project Alpha
-**Full Stack E-commerce Platform**
+**e-commerce platform**
+```
+┌─────────────────┐
+│  🛒 shop-easy   │
+│                 │
+│  react + node   │
+│  mongodb        │
+│                 │
+│  [live demo] ✨ │
+└─────────────────┘
+```
+*full-stack marketplace with payment integration*
 
-<img src="https://via.placeholder.com/300x200/1a1a2e/16213e?text=E-commerce+Platform" alt="Project 1" width="100%" style="border-radius:10px;"/>
-
-**Tech Stack:** React, Node.js, MongoDB  
-**Features:** Real-time cart, Payment gateway  
-
-[![Repo](https://img.shields.io/badge/Repo-GitHub-black?style=flat-square&logo=github)](https://github.com/vighneshparab/project-1)
-[![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square&logo=netlify)](https://your-demo-link.com)
-
-</td>
-<td width="33%" align="center">
-
-### 🤖 Project Beta
-**AI-Powered Task Manager**
-
-<img src="https://via.placeholder.com/300x200/16213e/0f3460?text=AI+Task+Manager" alt="Project 2" width="100%" style="border-radius:10px;"/>
-
-**Tech Stack:** Next.js, Python, PostgreSQL  
-**Features:** Smart scheduling, Voice commands  
-
-[![Repo](https://img.shields.io/badge/Repo-GitHub-black?style=flat-square&logo=github)](https://github.com/vighneshparab/project-2)
-[![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square&logo=vercel)](https://your-demo-link.com)
+[![code](https://img.shields.io/badge/code-8B7355?style=flat-square&logo=github)](https://github.com/vighneshparab/project-1)
 
 </td>
 <td width="33%" align="center">
 
-### 📱 Project Gamma
-**Real-time Chat Application**
+**ai task manager**
+```
+┌─────────────────┐
+│  🤖 smart-todo  │
+│                 │
+│  next.js + ai   │
+│  postgresql     │
+│                 │
+│  [live demo] ✨ │
+└─────────────────┘
+```
+*intelligent task scheduling with voice commands*
 
-<img src="https://via.placeholder.com/300x200/0f3460/533483?text=Chat+Application" alt="Project 3" width="100%" style="border-radius:10px;"/>
+[![code](https://img.shields.io/badge/code-8B7355?style=flat-square&logo=github)](https://github.com/vighneshparab/project-2)
 
-**Tech Stack:** React, Socket.io, Express  
-**Features:** Group chats, File sharing  
+</td>
+<td width="33%" align="center">
 
-[![Repo](https://img.shields.io/badge/Repo-GitHub-black?style=flat-square&logo=github)](https://github.com/vighneshparab/project-3)
-[![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square&logo=heroku)](https://your-demo-link.com)
+**chat application**
+```
+┌─────────────────┐
+│  💬 chill-chat  │
+│                 │
+│  react + socket │
+│  express.js     │
+│                 │
+│  [live demo] ✨ │
+└─────────────────┘
+```
+*real-time messaging with file sharing*
+
+[![code](https://img.shields.io/badge/code-8B7355?style=flat-square&logo=github)](https://github.com/vighneshparab/project-3)
 
 </td>
 </tr>
 </table>
 
-### 💼 Portfolio
-<a href="https://portfolio-beryl-five-12.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+**portfolio website**
+> *minimalist design meets smooth interactions*
+> 
+> [![visit](https://img.shields.io/badge/portfolio-visit%20site-d4af37?style=flat-square)](https://portfolio-beryl-five-12.vercel.app/)
 
 </div>
 
@@ -199,29 +231,74 @@ RESTful APIs      ███████████████████  90%
 
 <div align="center">
 
-## 🤝 Let's Connect & Collaborate
+## ☕ currently
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "vighnesh"
+        self.role = "full stack developer"
+        self.location = "india"
+        
+    def current_focus(self):
+        return [
+            "learning aws cloud architecture",
+            "experimenting with ai/ml",
+            "building side projects",
+            "contributing to open source",
+            "perfecting my coffee brewing technique"
+        ]
+    
+    def life_philosophy(self):
+        return "code with intention, debug with patience"
+
+me = Developer()
+```
+
+**what i'm up to:**
+- 🌱 diving deep into cloud architecture patterns
+- 🔨 building a saas product (stealth mode)
+- 📚 reading "designing data-intensive applications"
+- 🎵 curating the perfect coding playlist
+- 🤝 open to collaborating on interesting projects
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔗 let's connect
+
+*~ find me around the web ~*
+
+```
+         ╭─────────────────────────╮
+         │  social media vibes     │
+         ╰─────────────────────────╯
+```
 
 <p>
   <a href="https://linkedin.com/in/vighneshparab">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/linkedin-8B7355?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://dev.to/vighnesh_parab_08b710e1a5">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+    <img src="https://img.shields.io/badge/dev.to-A0937D?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to"/>
   </a>
   <a href="https://instagram.com/mr_vighnesh20">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/instagram-8B7355?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:vighneshparab@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/email-D4AF37?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-### 💡 Open for Opportunities
-```text
-📧 Email: vighneshparab@gmail.com
-💼 Available for: Full-time opportunities, Freelance projects, Collaborations
-🌍 Location: India (Open to remote work)
-⏰ Response Time: Usually within 24 hours
+```yaml
+email: vighneshparab@gmail.com
+response_time: "usually within 24 hours"
+availability: "open to new opportunities"
+preferred_contact: "email or linkedin"
+timezone: "IST (GMT+5:30)"
 ```
 
 </div>
@@ -230,23 +307,29 @@ RESTful APIs      ███████████████████  90%
 
 <div align="center">
 
-## 📚 Latest Blog Posts & Activities
+## 📝 recent thoughts
 
-### ✍️ Recent Articles
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Building Scalable React Applications](https://dev.to/vighnesh_parab)
-- ⚡ [Mastering WebSocket Connections](https://dev.to/vighnesh_parab)
-- 🎨 [Modern CSS Techniques](https://dev.to/vighnesh_parab)
-- 🔧 [Node.js Best Practices](https://dev.to/vighnesh_parab)
-<!-- BLOG-POST-LIST:END -->
+*~ from my digital notebook ~*
 
-### 🎯 2025 Goals
-- [ ] Contribute to 10+ open source projects
-- [ ] Master AWS Cloud Architecture
-- [ ] Build an AI-powered SaaS product
-- [ ] Mentor 50+ developers
-- [ ] Write 24+ technical articles
-- [ ] Speak at 3+ tech conferences
+```
+┌────────────────────────────────────────────┐
+│ "the best code is the code you don't       │
+│  have to write"                            │
+│                                            │
+│ "debugging is like solving a mystery       │
+│  where you're both the detective and       │
+│  the one who committed the crime"          │
+│                                            │
+│ "good design is as little design           │
+│  as possible" - dieter rams                │
+└────────────────────────────────────────────┘
+```
+
+**latest articles:**
+- 📖 building scalable react applications
+- ⚡ mastering websocket connections  
+- 🎨 modern css techniques that don't suck
+- 🔧 node.js patterns for the real world
 
 </div>
 
@@ -254,48 +337,62 @@ RESTful APIs      ███████████████████  90%
 
 <div align="center">
 
-## 🏆 Achievements & Certifications
+## 🎯 2025 goals
+
+*~ things to accomplish ~*
+
+```yaml
+code:
+  - [ ] contribute to 10+ open source projects
+  - [ ] master aws solutions architect certification
+  - [ ] build and launch a saas product
+  - [ ] write 24 technical articles
+  
+personal:
+  - [ ] mentor 25+ junior developers  
+  - [ ] speak at 2 tech conferences
+  - [ ] perfect my latte art skills ☕
+  - [ ] read 12 technical books
+```
+
+**progress tracking:**
+```
+open source contributions ▓▓░░░░░░░░ 20%
+aws certification         ▓▓▓▓▓░░░░░ 50%  
+saas product             ▓▓▓░░░░░░░ 30%
+articles written         ▓▓▓▓░░░░░░ 40%
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌙 night mode stats
+
+<details>
+<summary>📊 detailed github analytics</summary>
+
+<br>
 
 <table>
 <tr>
-<td width="50%" align="center">
-
-### 🥇 Certifications
-- ☁️ **AWS Solutions Architect** (In Progress)
-- 🚀 **React Advanced Patterns** ✅
-- 📊 **MongoDB Certified Developer** ✅
-- 🔧 **Node.js Application Development** ✅
-
-</td>
-<td width="50%" align="center">
-
-### 🏅 Recognition
-- 🌟 **Top Contributor** - Open Source Project
-- 🎯 **Hackathon Winner** - Tech Innovation 2024
-- 📈 **Performance Excellence** - Applus Wave
-- 💡 **Innovation Award** - Best UI/UX Design
-
+<td>
+<img src="https://github-readme-streak-stats.vercel.app/?user=vighneshparab&theme=gruvbox&hide_border=true&background=1d2021&ring=d4af37&fire=d4af37&currStreakLabel=ebdbb2&sideLabels=ebdbb2&currStreakNum=ebdbb2&sideNums=ebdbb2" alt="streak"/>
 </td>
 </tr>
 </table>
 
-</div>
-
----
-
-<div align="center">
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   8 hrs 32 mins   ████████████████░░░░░   65.2%
-React        3 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░   24.8%
-CSS          45 mins         █░░░░░░░░░░░░░░░░░░░░░░   5.7%
-HTML         30 mins         ░░░░░░░░░░░░░░░░░░░░░░░   3.8%
-Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░   0.5%
+**coding habits:**
 ```
-<!--END_SECTION:waka-->
+most productive time: 🌙 10pm - 2am
+favorite language: javascript (obviously)
+debugging style: console.log() warrior
+commit frequency: daily (mostly)
+```
+
+</details>
 
 </div>
 
@@ -303,27 +400,25 @@ Other        5 mins          ░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-## 🎵 Spotify Playing
-<img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
+```
+    ╭──────────────────────────────────────╮
+    │                                      │
+    │  thanks for visiting my profile! 🌱   │
+    │                                      │
+    │  keep coding, keep learning,         │
+    │  keep being awesome                  │
+    │                                      │
+    ╰──────────────────────────────────────╯
+```
 
-## 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/vighneshparab/vighneshparab/output/snake.svg" alt="Snake animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,21&height=120&section=footer"/>
 
-</div>
+**~ made with ☕ and lots of ♪ lofi beats ~**
+
+*"in a world of complexity, choose simplicity"*
 
 ---
 
-<div align="center">
-
-### 💭 Quote of the Day
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
-
-**⭐ From [Vighnesh Sadanand Parab](https://github.com/vighneshparab) with ❤️**
-
-*"Code is poetry written in logic"* ✨
+<sub>💡 *this readme updates automatically with my latest activities*</sub>
 
 </div>
