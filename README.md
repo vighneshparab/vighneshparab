@@ -147,7 +147,7 @@ const vighnesh = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="45%">
 
 ```
 ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪
@@ -158,7 +158,8 @@ const vighnesh = {
 ```
 
 </td>
-<td width="50%">
+<td width="10%"></td>
+<td width="45%">
 
 ```javascript
 while (coding) {
@@ -177,91 +178,124 @@ while (coding) {
 
 ---
 
+<div align="center">
+
 ## 🌿 Bento Grid Vibes
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%" align="center">
+<td width="30%" align="center" valign="top">
+<div align="center">
 
-### 🌙 Night Owl
+**🌙 Night Owl**
+
 ```
 🦉 2:00 AM
 Best code happens
 when the world sleeps
 ```
-![Commits](https://img.shields.io/badge/Late%20Night-Commits-blueviolet?style=flat-square&logo=moon)
 
+![Commits](https://img.shields.io/badge/Late%20Night-Commits-blueviolet?style=for-the-badge&logo=moon&logoColor=white)
+
+</div>
 </td>
-<td width="33%" align="center">
+<td width="5%"></td>
+<td width="30%" align="center" valign="top">
+<div align="center">
 
-### ☕ Coffee Counter
+**☕ Coffee Counter**
+
 ```
 ☕ ☕ ☕ ☕ ☕ ☕ ☕
 Today's Fuel: 7 cups
 Status: CAFFEINATED
 ```
-![Coffee](https://img.shields.io/badge/Coffee-Addict-brown?style=flat-square&logo=coffee)
 
+![Coffee](https://img.shields.io/badge/Coffee-Addict-8B4513?style=for-the-badge&logo=coffee&logoColor=white)
+
+</div>
 </td>
-<td width="33%" align="center">
+<td width="5%"></td>
+<td width="30%" align="center" valign="top">
+<div align="center">
 
-### 🎮 Fun Mode
+**🎮 Fun Mode**
+
 ```
 🕹️ When not coding:
 • Gaming sessions
 • Anime marathons  
 • Lo-fi playlists
 ```
-![Hobby](https://img.shields.io/badge/Hobby-Gaming-green?style=flat-square&logo=gamepad)
 
+![Hobby](https://img.shields.io/badge/Hobby-Gaming-32CD32?style=for-the-badge&logo=gamepad&logoColor=white)
+
+</div>
 </td>
 </tr>
+<tr><td colspan="5"><br></td></tr>
 <tr>
-<td width="33%" align="center">
+<td width="30%" align="center" valign="top">
+<div align="center">
 
-### 🌱 Growth Mindset
+**🌱 Growth Mindset**
+
 ```
 📚 Always learning
 🚀 Never settling
 ✨ Improving daily
 ```
-[![Learning](https://img.shields.io/badge/Status-Learning-orange?style=flat-square&logo=book)](https://github.com/vighneshparab)
 
+[![Learning](https://img.shields.io/badge/Status-Learning-FF8C00?style=for-the-badge&logo=book&logoColor=white)](https://github.com/vighneshparab)
+
+</div>
 </td>
-<td width="33%" align="center">
+<td width="5%"></td>
+<td width="30%" align="center" valign="top">
+<div align="center">
 
-### 🎯 Debug Master
+**🎯 Debug Master**
+
 ```
 🐛 console.log("hello")
 🔍 Found the bug!
 🎉 It was a semicolon
 ```
-![Debug](https://img.shields.io/badge/Debug-Master-red?style=flat-square&logo=bug)
 
+![Debug](https://img.shields.io/badge/Debug-Master-DC143C?style=for-the-badge&logo=bug&logoColor=white)
+
+</div>
 </td>
-<td width="33%" align="center">
+<td width="5%"></td>
+<td width="30%" align="center" valign="top">
+<div align="center">
 
-### 🌸 Zen Coder
+**🌸 Zen Coder**
+
 ```
 🧘‍♂️ Calm mind
 💻 Clean code
 🎋 Balanced life
 ```
-![Zen](https://img.shields.io/badge/Vibe-Zen-lightgreen?style=flat-square&logo=leaf)
 
+![Zen](https://img.shields.io/badge/Vibe-Zen-90EE90?style=for-the-badge&logo=leaf&logoColor=white)
+
+</div>
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🌊 The Lofi Developer's Manifesto
+## 🌊 The Lofi Developer's Manifesto
 
-<table>
+<table width="90%">
 <tr>
-<td width="50%">
+<td width="45%" align="center">
 
 ```ascii
     ╭─────────────────────────╮
@@ -274,7 +308,8 @@ Status: CAFFEINATED
 ```
 
 </td>
-<td width="50%">
+<td width="10%"></td>
+<td width="45%" align="center">
 
 ```javascript
 const myPhilosophy = {
@@ -290,24 +325,27 @@ const myPhilosophy = {
 </tr>
 </table>
 
+<br>
+
 ### 🦋 Thanks for dropping by my digital garden! 
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="20" /> *Watch my contribution snake grow*
 
 ![Snake animation](https://github.com/vighneshparab/vighneshparab/blob/output/github-contribution-grid-snake-dark.svg)
 
----
+<br>
 
-<table>
+<table width="80%">
 <tr>
-<td width="50%" align="center">
+<td width="45%" align="center">
 
 [![Visitor Count](https://visitcount.itsvg.in/api?id=vighneshparab&icon=6&color=6)](https://visitcount.itsvg.in)
 
-*Digital footprints in my garden* 🌱
+*🌱 Digital footprints in my garden*
 
 </td>
-<td width="50%" align="center">
+<td width="10%"></td>
+<td width="45%" align="center">
 
 **🌟 Found something cool?**  
 *Maybe leave a star?* ⭐  
@@ -317,7 +355,7 @@ const myPhilosophy = {
 </tr>
 </table>
 
----
+<br>
 
 ```
                     ╭──────────────────────────────────╮
