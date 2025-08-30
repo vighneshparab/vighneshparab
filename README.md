@@ -1,370 +1,247 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Hey there, I'm Vighnesh Parab!
+```
+                            ┌─────────────────────────────────────────────────────────────────────────────┐
+                            │  ╭─────────────────────────────────────────────────────────────────────╮    │
+                            │  │                                                                     │    │
+                            │  │   ██╗   ██╗██╗ ██████╗ ██╗  ██╗███╗   ██╗███████╗███████╗██╗  ██╗   │    │
+                            │  │   ██║   ██║██║██╔════╝ ██║  ██║████╗  ██║██╔════╝██╔════╝██║  ██║   │    │
+                            │  │   ██║   ██║██║██║  ███╗███████║██╔██╗ ██║█████╗  ███████╗███████║   │    │
+                            │  │   ╚██╗ ██╔╝██║██║   ██║██╔══██║██║╚██╗██║██╔══╝  ╚════██║██╔══██║   │    │
+                            │  │    ╚████╔╝ ██║╚██████╔╝██║  ██║██║ ╚████║███████╗███████║██║  ██║   │    │
+                            │  │     ╚═══╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝   │    │
+                            │  │                                                                     │    │
+                            │  ╰─────────────────────────────────────────────────────────────────────╯    │
+                            └─────────────────────────────────────────────────────────────────────────────┘
+```
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+## `📁 ./about_me/`
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
+<img align="right" alt="Coding Lofi" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-</div>
+```yaml
+vighnesh:
+  currently_working_on: "building scalable web applications"
+  learning_stack: ["Next.js", "Cloud Computing", "Advanced MERN"]
+  collaboration: "open source projects"
+  exploring: "AI/ML integration in web development"
+  ask_me_about: ["React", "Node.js", "MongoDB", "anything tech!"]
+  contact: "Vighneshparab83@gmail.com"
+  fun_fact: "debugging skills powered by chai ☕"
+  life_goal: "contributing to impactful real-world solutions"
+```
+
+<br clear="right"/>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Developer" width="30" /> About Me
+## `🔧 ./tech_stack/`
+```ascii
 
-```javascript
-const vighnesh = {
-    code: ["JavaScript", "TypeScript", "PHP", "HTML", "CSS"],
-    technologies: {
-        frontend: {
-            js: ["React", "Angular"],
-            css: ["TailwindCSS", "Bootstrap"]
-        },
-        backend: {
-            js: ["Node.js", "Express.js"],
-            php: ["CodeIgniter"]
-        },
-        mobile: ["Ionic"],
-        databases: ["MongoDB", "MySQL", "Redis"],
-        realtime: ["Socket.io", "WebRTC"]
+
+                                          ╭─────── languages ───────╮
+                                          │                         │
+                          ┌───────────────┴─────────────────────────┴────────────────┐
+                          │   js   ts   py   php   java   cpp   c   html   css   sql │
+                          └───────────────┬───────────────────────┬──────────────────┘
+                                          │                       │
+                                    ╭─────┴────── frameworks ─────┴─────╮
+                                    │                                   │
+                          ┌─────────┴───────────────────────────────────┴─────────┐
+                          │   react   nextjs   nodejs   express   bootstrap       │
+                          │   tailwind   jquery   flask                           │
+                          └───────────────┬───────────────────────┬───────────────┘
+                                          │                       │
+                                  ╭───────┴─────── databases & cloud ────────╮
+                                  │                                          │
+                          ┌───────┴──────────────────────────────────────────┴───────┐
+                          │   mongodb   mysql   postgresql   firebase   aws   docker │
+                          │   git   github                                           │
+                          └───────────────┬───────────────────────┬──────────────────┘
+                                          │                       │
+                                     ╭────┴───────── tools ───────┴──────╮
+                                     │                                   │
+                          ┌──────────┴───────────────────────────────────┴──────────┐
+                          │   vscode   postman   figma   linux   vercel   netlify   │
+                          └─────────────────────────────────────────────────────────┘
+
+
+```
+---
+
+## `💾 ./projects/showcase.json`
+
+```json
+{
+  "featured_projects": [
+    {
+      "name": "🏡 Hostel Harmony",
+      "description": "Smart hostel management with room allocation, fee tracking, student & staff management, analytics dashboard.",
+      "tech_stack": ["PHP", "Bootstrap", "MySQL"],
+      "demo": "your-demo-link",
+      "repo": "your-repo-link",
+      "status": "deployed"
     },
-    currentFocus: "Building scalable full-stack applications",
-    funFact: "I debug with console.log() and I'm proud of it! 🐛"
-};
-```
-
-<div align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" /> Connect With Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vighneshparab83@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vighneshparab)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_vighnesh20)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vighneshparab)
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> Tech Arsenal
-
-<div align="center">
-
-### Frontend Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Mobile & Real-time
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-
-### Tools & Version Control
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="30" /> GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vighneshparab&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighneshparab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=vighneshparab&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8B949E)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="30" /> Achievements
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=vighneshparab&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Ideas" width="30" /> What I'm Up To
-
-- 🔭 Currently working on **scalable full-stack applications**
-- 🌱 Learning **advanced React patterns and microservices**
-- 👯 Looking to collaborate on **open-source projects**
-- 💬 Ask me about **MERN stack, PHP, or real-time applications**
-- ⚡ Fun fact: **I believe the best code is the code that doesn't need comments!**
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Quote" width="30" /> Developer Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming)
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Activity" width="30" /> Contribution Graph
-
-<div align="center">
-
-[![Vighnesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vighneshparab&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎧 Currently Vibing To...
-
-<table>
-<tr>
-<td width="45%">
-
-```
-♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪
-  🎵 Lofi Hip Hop Radio 24/7
-  🌙 beats to relax/study to
-  ☕ coding sessions enhanced
-♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪
-```
-
-</td>
-<td width="10%"></td>
-<td width="45%">
-
-```javascript
-while (coding) {
-    ☕ coffee++;
-    🎧 lofi.play();
-    💻 productivity += 100;
-    🌙 vibe = "immaculate";
+    {
+      "name": "🌾 Farming Recs", 
+      "description": "AI-powered crop recommendation with ML, weather API, yield prediction, and location-based insights.",
+      "tech_stack": ["React", "Node.js", "MongoDB", "Python"],
+      "demo": "your-demo-link",
+      "repo": "your-repo-link", 
+      "status": "deployed"
+    },
+    {
+      "name": "🧳 TravelPlanner",
+      "description": "Interactive trip planning with route maps, booking, currency converter, and responsive design.",
+      "tech_stack": ["React", "CSS", "APIs"],
+      "demo": "your-demo-link",
+      "repo": "your-repo-link",
+      "status": "deployed"
+    },
+    {
+      "name": "🏢 Smart Office System",
+      "description": "Complete office automation suite with 10 modules, real-time messaging, analytics, and role-based access.",
+      "tech_stack": ["PHP", "MySQL", "JavaScript"],
+      "demo": "your-demo-link", 
+      "repo": "your-repo-link",
+      "status": "deployed"
+    }
+  ]
 }
 ```
 
-</td>
-</tr>
-</table>
+---
 
+## `📊 ./current_status/`
+
+```bash
+vighnesh@dev-machine:~$ cat current_focus.log
+
+[2025-08-30 | LEARNING_JOURNEY]
+├─ 🚀 mastering: next.js advanced patterns
+├─ ☁️ exploring: cloud architecture & microservices  
+├─ ⚙️ diving_into: devops practices & automation
+└─ 🧠 status: always_curious.mode()
+
+[2025-08-30 | GOALS_2025]  
+├─ ✅ contribute_to: open_source_community
+├─ ⚡ building: personal_saas_application
+├─ ☁️ mastering: aws_azure_platforms
+├─ ✍️ writing: technical_blog_posts
+└─ 🤝 mentoring: junior_developers
+
+[2025-08-30 | METRICS]
+├─ coffee_consumed: ∞ cups ☕
+├─ code_quality: A+ grade 📊  
+├─ bugs_shipped: 404_not_found 🐛
+└─ learning_rate: exponential_growth 📈
+```
+
+---
+
+## `🌍 ./connect/social_links.sh`
+
+<div>
+<a href="https://linkedin.com/in/your-linkedin"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/your-twitter"> <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/> </a> <a href="mailto:Vighneshparab83@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/> </a>
+<a href="https://dev.to/your-username"> <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white"/> </a> <a href="https://portfolio-website.com"> <img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=firefox&logoColor=white"/> </a> <a href="https://calendly.com/your-username"> <img src="https://img.shields.io/badge/-Schedule_Call-4ECDC4?style=flat-square&logo=calendly&logoColor=white"/> </a>
 </div>
 
 ---
 
 <div align="center">
 
-## 🌿 Bento Grid Vibes
-
-<table width="100%">
-<tr>
-<td width="30%" align="center" valign="top">
-<div align="center">
-
-**🌙 Night Owl**
-
-```
-🦉 2:00 AM
-Best code happens
-when the world sleeps
-```
-
-![Commits](https://img.shields.io/badge/Late%20Night-Commits-blueviolet?style=for-the-badge&logo=moon&logoColor=white)
+### ⚡ My Vibes Outside Coding
 
 </div>
-</td>
-<td width="5%"></td>
-<td width="30%" align="center" valign="top">
-<div align="center">
 
-**☕ Coffee Counter**
 
-```
-☕ ☕ ☕ ☕ ☕ ☕ ☕
-Today's Fuel: 7 cups
-Status: CAFFEINATED
-```
-
-![Coffee](https://img.shields.io/badge/Coffee-Addict-8B4513?style=for-the-badge&logo=coffee&logoColor=white)
-
-</div>
-</td>
-<td width="5%"></td>
-<td width="30%" align="center" valign="top">
-<div align="center">
-
-**🎮 Fun Mode**
-
-```
-🕹️ When not coding:
-• Gaming sessions
-• Anime marathons  
-• Lo-fi playlists
+```yaml
+when_not_coding:
+  games: "🎯 Strategy & Puzzle Solving"
+  art: "🎨 Creating Chibi Characters"
+  reading: "📚 Tech Blogs & Documentation"
+  fitness: "🏃‍♂️ Morning Runs in Pune"
+  brewing: "🍵 Perfecting the Chai Recipe"
+  streaming: "🎬 Sci-fi Series Marathons"
 ```
 
-![Hobby](https://img.shields.io/badge/Hobby-Gaming-32CD32?style=for-the-badge&logo=gamepad&logoColor=white)
+<p align="center"> <img src="https://img.shields.io/badge/Gaming-%F0%9F%8E%AF-blue?style=for-the-badge&logo=steam&logoColor=white" /> <img src="https://img.shields.io/badge/Art-%F0%9F%8E%A8-purple?style=for-the-badge&logo=adobeillustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Reading-%F0%9F%93%9A-orange?style=for-the-badge&logo=mdbook&logoColor=white" /> <img src="https://img.shields.io/badge/Fitness-%F0%9F%8F%83‍♂️-green?style=for-the-badge&logo=strava&logoColor=white" /> <img src="https://img.shields.io/badge/Chai%20Time-%F0%9F%8D%B5-brown?style=for-the-badge&logo=coffeescript&logoColor=white" /> <img src="https://img.shields.io/badge/Streaming-%F0%9F%8E%AC-red?style=for-the-badge&logo=netflix&logoColor=white" /> </p> 
 
-</div>
-</td>
-</tr>
-<tr><td colspan="5"><br></td></tr>
-<tr>
-<td width="30%" align="center" valign="top">
-<div align="center">
 
-**🌱 Growth Mindset**
+## `📈 ./analytics/weekly_stats.log`
 
+<!--START_SECTION:waka-->
+```bash
+vighnesh@dev-machine:~$ cat coding_time.log
+
+┌─ Language Distribution ─────────────────────────┐
+│                                                │
+│  JavaScript   █████████████████████░░░░  48.2% │
+│  TypeScript   ██████████████░░░░░░░░░░░  26.5% │
+│  React        ████████░░░░░░░░░░░░░░░░░  16.1% │
+│  CSS          ███░░░░░░░░░░░░░░░░░░░░░░░   6.7% │
+│  Other        █░░░░░░░░░░░░░░░░░░░░░░░░░   2.5% │
+│                                                │
+│  Total: 17hrs 4mins of pure focus ☕           │
+└────────────────────────────────────────────────┘
 ```
-📚 Always learning
-🚀 Never settling
-✨ Improving daily
-```
-
-[![Learning](https://img.shields.io/badge/Status-Learning-FF8C00?style=for-the-badge&logo=book&logoColor=white)](https://github.com/vighneshparab)
-
-</div>
-</td>
-<td width="5%"></td>
-<td width="30%" align="center" valign="top">
-<div align="center">
-
-**🎯 Debug Master**
-
-```
-🐛 console.log("hello")
-🔍 Found the bug!
-🎉 It was a semicolon
-```
-
-![Debug](https://img.shields.io/badge/Debug-Master-DC143C?style=for-the-badge&logo=bug&logoColor=white)
-
-</div>
-</td>
-<td width="5%"></td>
-<td width="30%" align="center" valign="top">
-<div align="center">
-
-**🌸 Zen Coder**
-
-```
-🧘‍♂️ Calm mind
-💻 Clean code
-🎋 Balanced life
-```
-
-![Zen](https://img.shields.io/badge/Vibe-Zen-90EE90?style=for-the-badge&logo=leaf&logoColor=white)
-
-</div>
-</td>
-</tr>
-</table>
-
-</div>
+<!--END_SECTION:waka-->
 
 ---
 
-<div align="center">
+## `💭 ./inspiration/daily_quote.txt`
 
-## 🌊 The Lofi Developer's Manifesto
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
 
-<table width="90%">
-<tr>
-<td width="45%" align="center">
+### `// "Code is poetry written in logic, bugs are just unexpected haikus"`
+
+---                         
+```ascii
+                            ╭──────────────────────────────────────────────────────────────────────────╮
+                            │                                                                          │
+                            │        ██████╗ ██████╗ ███╗   ██╗███╗   ██╗███████╗ ██████╗████████╗     │
+                            │       ██╔════╝██╔═══██╗████╗  ██║████╗  ██║██╔════╝██╔════╝╚══██╔══╝     │
+                            │       ██║     ██║   ██║██╔██╗ ██║██╔██╗ ██║█████╗  ██║        ██║        │
+                            │       ██║     ██║   ██║██║╚██╗██║██║╚██╗██║██╔══╝  ██║        ██║        │
+                            │       ╚██████╗╚██████╔╝██║ ╚████║██║ ╚████║███████╗╚██████╗   ██║        │
+                            │        ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═╝        │
+                            │                                                                          │
+                            ╰──────────────────────────────────────────────────────────────────────────╯
+
+```
+
+<div>
+
+### `~/collaboration_opportunities/`
+
+💡 **What I’m open to:**  
+**🚀 Freelance Projects** • **💼 Full-time Roles** • **🌱 Open Source Contributions**  
+**🎓 Mentorship** • **🛠️ Code Reviews** • **☕ Coffee Chats**
+
+---
+
+vighnesh@digital-space:~$ echo "Let's build something amazing together!"
+
+❯ Exploring: exciting tech, creative ideas & impactful projects  
+❯ Open to: collaborations, knowledge-sharing & innovation ✨  
+❯ Location: Pune, India 🇮🇳 | Remote-friendly 🌍  
+
+### `🎵 background_music: lofi_beats_to_code_to.mp3 ♪`
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ```ascii
-    ╭─────────────────────────╮
-    │  🌙 Code in moonlight   │
-    │  ☕ Fuel with coffee    │  
-    │  🎧 Vibe to lo-fi       │
-    │  🌿 Keep it minimal     │
-    │  ✨ Make magic happen   │
-    ╰─────────────────────────╯
+┌─ session_ended ─────────────────────────────────────────────────────────┐
+│                                                                         │
+│  thanks for visiting my digital corner of the internet! 💙             │
+│  feel free to explore, connect, and create something beautiful          │
+│                                                                         │
+│  ❯ git commit -m "another great connection made"                        │
+│  ❯ git push origin friendship                                           │
+│                                                                         │
+│  // stay curious, keep coding, drink good chai ☕                       │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
-</td>
-<td width="10%"></td>
-<td width="45%" align="center">
-
-```javascript
-const myPhilosophy = {
-  coding: "🎨 Art meets logic",
-  music: "🎵 Lo-fi = productivity++",  
-  coffee: "☕ Required dependency",
-  bugs: "🐛 Just surprise features",
-  life: "🌸 Simple & aesthetic"
-};
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 🦋 Thanks for dropping by my digital garden! 
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="20" /> *Watch my contribution snake grow*
-
-![Snake animation](https://github.com/vighneshparab/vighneshparab/blob/output/github-contribution-grid-snake-dark.svg)
-
-<br>
-
-<table width="80%">
-<tr>
-<td width="45%" align="center">
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=vighneshparab&icon=6&color=6)](https://visitcount.itsvg.in)
-
-*🌱 Digital footprints in my garden*
-
-</td>
-<td width="10%"></td>
-<td width="45%" align="center">
-
-**🌟 Found something cool?**  
-*Maybe leave a star?* ⭐  
-*It makes my day!* 😊
-
-</td>
-</tr>
-</table>
-
-<br>
-
-```
-                    ╭──────────────────────────────────╮
-                    │ 🎧 Now playing: Code & Chill    │
-                    │ 💫 "Code is poetry in motion"   │  
-                    │ 🌙 Keep coding, stay dreaming    │
-                    ╰──────────────────────────────────╯
-```
-
-<sub>💭 *Built with ☕, 🎵 lo-fi beats, and lots of 💜*</sub>
+<sub>**Last updated: `date +"%Y.%m.%d"` | Made with ❤️ and lots of ☕**</sub>
 
 </div>
